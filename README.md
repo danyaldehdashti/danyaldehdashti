@@ -6,6 +6,7 @@ Hello, I am Danyal Dehdashti from Iran. I am a Unity programmer I loves gaming a
 [![My Skills](https://skillicons.dev/icons?i=idea,visualstudio,vscode&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=dark)](https://skillicons.dev)
 
+<p align="center">
 <img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 <br>
 
