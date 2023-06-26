@@ -6,11 +6,8 @@ Hello, I am Danyal Dehdashti from Iran. I am a Unity programmer I loves gaming a
 [![My Skills](https://skillicons.dev/icons?i=idea,visualstudio,vscode&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=dark)](https://skillicons.dev)
 
-
-
-<img alt="Coder GIF" height=250 width=350 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
+<img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 <br>
-
 
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
@@ -27,4 +24,3 @@ Hello, I am Danyal Dehdashti from Iran. I am a Unity programmer I loves gaming a
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/github-metrics.svg">
 </p>
 </details>
-
